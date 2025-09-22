@@ -41,5 +41,5 @@ pr("Hi")
 
 # Output
 ```lua 
-local function a(b);print(b);a("Hi");
+local function a(b);print(b);end;a("Hi");
 ```
