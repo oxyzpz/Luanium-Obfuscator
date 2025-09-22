@@ -30,6 +30,8 @@ Supports Roblox LuaU and Lua 5.4 or higher
 
 Our obfuscator will release in 2026-01-01
 
+
+Here is what the obfuscation looks for now:
 # Input
 ```lua
 local function pr(message)
