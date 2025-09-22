@@ -18,9 +18,14 @@ and more..
 version v0.0.1
 
 Updates:
-https://youtube.com/
+https://youtube.com/ | coming soon
+
+Get started and start obfuscating:
+https://luaniun | coming soon
 
 This project was made to protect your Roblox and Lua scripts from reverse engineers.
 Since our code is not opened sourced it is very difficult to deobfuscate Luanium
 
 Supports Roblox LuaU and Lua 5.4 or higher
+
+Our obfuscator will release in 2026-01-01
