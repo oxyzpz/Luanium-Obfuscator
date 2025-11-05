@@ -46,3 +46,5 @@ pr("Hi")
 ```lua 
 local function a(b);print(b);end;a("Hi");
 ```
+
+output will be changed soon.
