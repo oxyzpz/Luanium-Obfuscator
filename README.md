@@ -11,9 +11,7 @@ Luanium is a Roblox LuaU and Lua 5.4 obfuscator better than MoonSec V3, Promethe
 * Mangles Functions
 * Mangles Globals
 * Mangles Self Calls
-* Uses Base85 and bit32 and more...
 * Anti-Dump, Anti-Debug, Anti-Tamper.
-* Confuser / Dead code -- inserts dead code and confusion to control flow flattening.
 * Virtualize Code / VM (Premium Optional feature)
 * VM Compression (Premium Optional feature)
 and more..
