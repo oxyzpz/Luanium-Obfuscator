@@ -27,7 +27,7 @@ and more..
 * Mangles Functions
 * Mangles Globals
 
-I'll release once i make VM compression / virtualization.
+I'll release once i make VM compression and virtualization / VM.
 
 
 version v0.0.3
