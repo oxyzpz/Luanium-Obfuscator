@@ -14,7 +14,21 @@ Luanium is a Roblox LuaU and Lua 5.4 obfuscator better than MoonSec V3, Promethe
 * Anti-Dump, Anti-Debug, Anti-Tamper.
 * Virtualize Code / VM (Premium Optional feature)
 * VM Compression (Premium Optional feature)
+* Macros
 and more..
+
+# What does Luanium have right now?
+* Removes comments
+* Renames variables
+* Minifys code
+* Control Flow Flattening
+* Mangles Numbers
+* Mangles Statements
+* Mangles Functions
+* Mangles Globals
+
+I'll release once i make VM compression / virtualization.
+
 
 version v0.0.3
 
@@ -31,7 +45,6 @@ Supports Roblox LuaU and Lua 5.4 or higher
 
 Our obfuscator will release in 2026-01-01
 
-
 Here is what the obfuscation looks for now:
 # Input
 ```lua
@@ -44,7 +57,7 @@ pr("Hi")
 
 # Output
 ```lua 
-local function a(b);print(b);end;a("Hi");
+local a = function(b);print(b);end;a("Hi");
 ```
 
 output will be changed soon.
