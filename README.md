@@ -6,8 +6,9 @@ Luanium is a Roblox LuaU and Lua 5.4 obfuscator better than MoonSec V3, Promethe
 * Renames variables
 * Minifys code
 * Control Flow Flattening
-* Mangles Numbers
 * Mangles Statements
+* Mangles Numbers
+* Mangles Strings
 * Mangles Functions
 * Mangles Globals
 * Mangles Self Calls
@@ -24,6 +25,7 @@ and more..
 * Control Flow Flattening
 * Mangles Numbers
 * Mangles Statements
+* Mangles Strings
 * Mangles Functions
 * Mangles Globals
 
