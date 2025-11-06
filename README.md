@@ -34,7 +34,7 @@ Nothing is toggleable everything is obfuscated in a whole.
 I'll release this obfuscator once i make VM compression and virtualization / VM.
 Our obfuscator will be accessed through a website.
 
-version v0.0.3
+Obfuscator version: v0.0.3
 
 Updates:
 https://youtube.com/ | coming soon
