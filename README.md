@@ -31,22 +31,18 @@ and more..
 
 Nothing is toggleable everything is obfuscated in a whole.
 
-I'll release once i make VM compression and virtualization / VM.
+I'll release this obfuscator once i make VM compression and virtualization / VM.
+Our obfuscator will be accessed through a website.
 
 version v0.0.3
 
 Updates:
 https://youtube.com/ | coming soon
 
-Get started and start obfuscating:
-https://luanium | COMING SOON
-
 This project was made to protect your Roblox and Lua scripts from reverse engineers.
 Since our code is not opened sourced it is very difficult to deobfuscate Luanium
 
 Supports Roblox LuaU and Lua 5.4 or higher
-
-Our obfuscator will release in 2026-02-07
 
 Here is what the obfuscation looks for now:
 # Input
@@ -63,4 +59,6 @@ pr("Hi")
 local a = function(b);print(b);end;a("Hi");
 ```
 
-output will be changed soon.
+output changes overtime when i added the features from above making it where it showcases what the obfuscation looks like right now.
+
+Last Updated: 2025-11-06
