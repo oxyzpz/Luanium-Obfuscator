@@ -29,8 +29,9 @@ and more..
 * Mangles Functions
 * Mangles Globals
 
-I'll release once i make VM compression and virtualization / VM.
+Nothing is toggleable everything is obfuscated in a whole.
 
+I'll release once i make VM compression and virtualization / VM.
 
 version v0.0.3
 
@@ -38,14 +39,14 @@ Updates:
 https://youtube.com/ | coming soon
 
 Get started and start obfuscating:
-https://luanium | coming soon
+https://luanium | COMING SOON
 
 This project was made to protect your Roblox and Lua scripts from reverse engineers.
 Since our code is not opened sourced it is very difficult to deobfuscate Luanium
 
 Supports Roblox LuaU and Lua 5.4 or higher
 
-Our obfuscator will release in 2026-01-01
+Our obfuscator will release in 2026-02-07
 
 Here is what the obfuscation looks for now:
 # Input
