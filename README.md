@@ -56,7 +56,7 @@ pr("Hi")
 
 # Output
 ```lua 
-The output is changing.
+-- The output is changing soon.
 ```
 
 output changes overtime when i added the features from above making it where it showcases what the obfuscation looks like right now.
