@@ -1,5 +1,5 @@
 # Luanium-Obfuscator
-Luanium is a Roblox LuaU and Lua 5.4 obfuscator better than MoonSec V3, Prometheus, IronBrew and etc.
+Luanium is a Roblox LuaU and Lua 5.1 obfuscator better than MoonSec V3, Prometheus, IronBrew and etc.
 
 # Features
 * Removes comments
@@ -34,15 +34,14 @@ Nothing is toggleable everything is obfuscated in a whole.
 I'll release this obfuscator once i make VM compression and virtualization / VM.
 Our obfuscator will be accessed through a website.
 
-Obfuscator version: v0.0.3
+Obfuscator version: v0.0.4
 
 Updates:
 https://youtube.com/ | coming soon
 
-This project was made to protect your Roblox and Lua scripts from reverse engineers.
-Since our code is not opened sourced it is very difficult to deobfuscate Luanium
+I made this project to protect your Roblox Lua scripts (exploiting) from reverse engineers.
 
-Supports Roblox LuaU and Lua 5.4 or higher
+Supports Roblox LuaU and Lua 5.1 or higher
 
 Here is what the obfuscation looks for now:
 # Input
