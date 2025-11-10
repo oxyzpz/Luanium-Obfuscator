@@ -63,4 +63,4 @@ local mv=getfenv()local t_,iG,wE=mv.string.char,mv.string.byte,mv.bit32.bxor loc
 
 output changes overtime when i added the features from above making it where it showcases what the obfuscation looks like right now.
 
-Last Updated: 2025-11-07
+Last Updated: 2025-11-10
