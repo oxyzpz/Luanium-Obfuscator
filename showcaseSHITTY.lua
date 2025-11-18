@@ -1,4 +1,4 @@
---obfuscated with a shitty ass obfuscsator online: https://onecompiler.com/lua/444x7trj9
+--obfuscated with a shitty ass obfuscator online: https://onecompiler.com/lua/444x7trj9
 
 --// Protected by Wth1Q
 
